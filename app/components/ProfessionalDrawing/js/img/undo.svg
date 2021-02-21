@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="49.32959mm"
+   height="51.087307mm"
+   viewBox="0 0 49.32959 51.087308"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="undo.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="498.31168"
+     inkscape:cy="-5.57451"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <g
+    inkscape:label="Layer 1"
+    inkscape:groupmode="layer"
+    id="layer1"
+    transform="translate(109.08944,-125.45111)"
+     >
+    <path
+      style="fill:#48a847;stroke-width:0.241584;fill-opacity:1"
+      d="m -97.634693,154.43987 -8.534977,-8.62679 8.577496,-8.66908 8.577493,-8.66908 0.0177,5.4487 0.0177,5.44872 1.629078,-0.18656 c 3.971608,-0.45483 9.526997,0.86531 13.465177,3.19977 2.677992,1.58745 5.828471,4.59995 7.507388,7.17858 4.361786,6.69922 4.909544,15.55339 1.406401,22.73337 -0.722229,1.48027 -1.045202,1.66509 -0.439566,0.25155 0.649075,-1.51495 1.109777,-4.29832 1.064361,-6.4304 -0.1531,-7.18678 -4.850716,-13.48947 -11.733623,-15.74272 -3.817993,-1.2499 -9.165796,-0.995 -12.080511,0.57582 l -0.846856,0.45639 -0.0036,5.95391 c -0.002,3.27467 -0.02277,5.89783 -0.04614,5.82925 -0.02337,-0.0686 -3.883252,-4.0067 -8.57747,-8.75144 z"
+      id="path2208" />
+  </g>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
